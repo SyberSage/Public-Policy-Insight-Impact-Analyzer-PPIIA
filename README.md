@@ -6,7 +6,7 @@ The application is built with **Python and Streamlit**. You load a bill (a PDF, 
 
 ## 🚀 Live Demo
 
-**Streamlit App:** https://your-app-name.streamlit.app/
+**Streamlit App:** [https://ppiia-sybersage.streamlit.app/](https://ppiia-sybersage.streamlit.app/)
 
 ## 📌 Project Overview
 
@@ -152,7 +152,7 @@ PPIIA/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/SyberSage/Public-Policy-Insight-Impact-Analyzer-PPIIA.git
 ```
 
 ### 2. Navigate to the project directory
@@ -316,11 +316,11 @@ Yoga Prabhu
 
 Data Science | Machine Learning | Python
 
-Portfolio: https://sybersage.github.io/Portfolio/
+Portfolio: [Portfolio](https://sybersage.github.io/Portfolio/)
 
-GitHub: https://github.com/your-username
+GitHub: [GitHub](https://github.com/your-username)
 
-LinkedIn: https://www.linkedin.com/in/yoga-prabhu
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoga-prabhu)
 
 ---
 
